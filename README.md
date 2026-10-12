@@ -1,0 +1,1 @@
+# merchant-product-app-hibernate
